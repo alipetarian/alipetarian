@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am lead Full Stack web developer with expertise in Reactjs, Nodejs, Nestjs, Gatsby, Nextjs, Hasura. I am leading a team of more than 6 developers. 
+
+Feel free to reach me out at email: alipakistani90@gmail.com
+
+- 🌱 I’m currently Affiliate Marketing and also providing tools integration services being used in affiliate marketing. 
+ 
+
 <!--
 **alipetarian/alipetarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
